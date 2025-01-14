@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Nama            : Ahmad Saifudin Syuhri
+NIM             : 312310035
+Kelas           : TI.23.C.1
+Mata Kuliah     : Pemrograman Web 1
+Dosen Pengampu  : Eko Budiarto, S.Kom., M.M.
